@@ -1,5 +1,5 @@
 <div align="center" >
-  <img width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2CLCb-EZkLZEdgFKptFZeG&ust=1715744027366000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOCQs9-ajIYDFQAAAAAdAAAAABAE" alt="coding">
+  <img width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Raj Gupta</h1>
