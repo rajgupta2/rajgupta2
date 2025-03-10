@@ -88,7 +88,6 @@
 - 📜 **AWS Cloud Practitioner Essentials Certification**
 - 📜 **[Software Engineer Intern Certificate](https://www.hackerrank.com/certificates/9cb8038b7ccc)** from Hackerrank 
 - 📜 **Full Stack Developer Trainee Certificate** from Kamadgiri Software Solution Pvt. Ltd.
-- 📜 **Full stack developer** from Kamadgiri Software Solution Pvt. Ltd. 
 
 ---
 
