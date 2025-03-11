@@ -94,6 +94,16 @@
 
 ---
 
+## 💼 Professional Experience
+- **Intern at AICTE EY GDS** *(10/02/2025 - Present)*  
+  Worked on the **Zomoto clone project named Food Party**, a web application designed to streamline food ordering and restaurant management with their menu.  
+  **Key Contributions:**
+  - Developed core functionalities using **Node JS,Express, and Mongo Atlas**.
+  - Designed UI/UX with **React JS,and Bootstrap**.
+  - Integrated Frontend and Backend API.
+
+---
+
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajgupta2&theme=dark&hide_border=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajgupta2&show_icons=true&theme=dark)
