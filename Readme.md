@@ -59,6 +59,9 @@
 
 
 ## 📌 Software Development Projects
+- 🍽 **Food Party** - Developed a web application for food ordering and restaurant management system, divided into two parts:  
+  - **Frontend:** [Food Party Frontend](https://foodparty.netlify.app) - A responsive UI built with React JS,Bootstrap, and CSS, deployed on Netlify.   
+  - **Backend API:** [Food Party Backend API](https://github.com/rajgupta2/Food-Party-Backend) - A robust API built with Node JS,Express JS, and Mongo Atlas, deployed on Render.  
 - 🚀 **[Engineer](https://github.com/rajgupta2/rajgupta2.github.io)** - A user-friendly web app to access learning resources.  
 &nbsp;&nbsp;&emsp;**Tech Stack:** Node.js, React.js, Next.js, Git, GitHub, Tailwind CSS.  
 - 🔥 **[StudyStudent](https://github.com/rajgupta2/StudyStudent)** - A web application enabling students to submit assignments and take virtual tests.  
