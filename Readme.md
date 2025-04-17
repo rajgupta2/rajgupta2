@@ -53,6 +53,9 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 
 ---
@@ -105,9 +108,7 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajgupta2&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajgupta2&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupta2&layout=compact&theme=dark)
+![Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajgupta2&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)
 
 ---
 
