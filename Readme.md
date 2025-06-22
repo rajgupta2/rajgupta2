@@ -4,8 +4,8 @@
 </div>
 
 ## 🚀 About Me
-🎓 Final year student of **B.Tech in Information Technology** (2025) at **Mahatma Gandhi Chitrakoot Gramodaya Vishwavidalaya (MGCGV), Chitrakoot**  
-💻 Passionate about **Software Development, MERN Stack, ASP.NET Core, and Problem-Solving**  
+🎓 Recently completed my gradaution degree- **B.Tech in Information Technology** (2025) at **Mahatma Gandhi Chitrakoot Gramodaya Vishwavidalaya (MGCGV), Chitrakoot**  
+💻 Passionate about **Software Development, MERN Stack, ASP.NET MVC**  
 🔍 Currently preparing for **placements & software engineering roles**  
 ⚡ Fun fact: I'm an **introvert** but love exploring new tech!
 
