@@ -115,7 +115,7 @@
 ## 💬 Connect with Me
 
 📧 **Email:** rajgupta.ckt22@gmail.com     
-💼 **LinkedIn:** [https://www.linkedin.com/in/raj-gupta-6b5655291/](https://www.linkedin.com/in/raj-gupta-6b5655291/)  
+💼 **LinkedIn:** [https://www.linkedin.com/in/raj-gupta-ckt/](https://www.linkedin.com/in/raj-gupta-ckt)  
 🌐 **Portfolio:** [https://raj-gupta-portfolio.netlify.app/](https://raj-gupta-portfolio.netlify.app/)
 
 ---
