@@ -98,7 +98,7 @@
 ---
 
 ## 💼 Professional Experience
-- **Intern at AICTE EY GDS** *(10/02/2025 - Present)*  
+- **Intern at Edunet Foundation** *(10/02/2025 - 21/03/2025)*  
   Worked on the **Zomoto clone project named Food Party**, a web application designed to streamline food ordering and restaurant management with their menu.  
   **Key Contributions:**
   - Developed core functionalities using **Node JS,Express, and Mongo Atlas**.
