@@ -4,12 +4,21 @@
 </div>
 
 ## 🚀 About Me
-🎓 Recently completed my gradaution degree- **B.Tech in Information Technology** (2025) at **Mahatma Gandhi Chitrakoot Gramodaya Vishwavidalaya (MGCGV), Chitrakoot**  
-💻 Passionate about **Software Development, MERN Stack, ASP.NET MVC**  
-🔍 Currently preparing for **placements & software engineering roles**  
-⚡ Fun fact: I'm an **introvert** but love exploring new tech!
+- 🎖  Secured a Gold Medal in the MGCGV University.
+- 💻 Passionate about **Web Development and Cloud Deployment**
+- 🔍 I have knowledge in diverse technologies such as MERN stack, ASP.NET MVC, cloud technologies, and some automation tools.
+- 🎓 Recently completed my gradaution- **B.Tech in Information Technology** (2025) at **Mahatma Gandhi Chitrakoot Gramodaya Vishwavidalaya (MGCGV), Chitrakoot**  
 
----
+## 📌 Web Development Projects
+- 🍽 **Food Party** - Developed a web application for food ordering and restaurant management system, divided into two parts:  
+  - **Frontend:** [Food Party Frontend](https://foodparty.netlify.app) - A responsive UI built with React JS,Bootstrap, and CSS, deployed on Netlify.   
+  - **Backend API:** [Food Party Backend API](https://github.com/rajgupta2/Food-Party-Backend) - A robust API built with Node JS,Express JS, and Mongo Atlas, deployed on Render.  
+- 🔥 **[StudyStudent](https://github.com/rajgupta2/StudyStudent)** - A web application enabling students to submit assignments and take virtual tests.  
+  &nbsp;&nbsp;&emsp;**Tech Stack:** Node.js, Express, EJS, Passport.js, MongoDB, Mongoose, Mongo Atlas, Git, GitHub.  
+- 💼 **[Techwork](https://github.com/rajgupta2/Techwork)** - A web application connecting developers and clients for collaboration opportunities.  
+ &nbsp;&nbsp;&emsp; **Tech Stack:** ASP.NET MVC, C#, Entity Framework, MySQL, JavaScript, jQuery, Bootstrap, AJAX, HTML, CSS, MSSQL Server.
+
+📌 *Check out all my projects [here](https://github.com/rajgupta2?tab=repositories)!*
 
 ## 🛠 Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -34,12 +43,10 @@
 ![Next JS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![ESLINT](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-
-  
-## 🏗️ Cloud & Server
 ![AWS Cloud](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Elastic Load Balancer](https://img.shields.io/badge/AWS%20ELB-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -58,62 +65,18 @@
 ![Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
 
----
-
-
-## 📌 Software Development Projects
-- 🍽 **Food Party** - Developed a web application for food ordering and restaurant management system, divided into two parts:  
-  - **Frontend:** [Food Party Frontend](https://foodparty.netlify.app) - A responsive UI built with React JS,Bootstrap, and CSS, deployed on Netlify.   
-  - **Backend API:** [Food Party Backend API](https://github.com/rajgupta2/Food-Party-Backend) - A robust API built with Node JS,Express JS, and Mongo Atlas, deployed on Render.  
-- 🚀 **[Engineer](https://github.com/rajgupta2/rajgupta2.github.io)** - A user-friendly web app to access learning resources.  
-&nbsp;&nbsp;&emsp;**Tech Stack:** Node.js, React.js, Next.js, Git, GitHub, Tailwind CSS.  
-- 🔥 **[StudyStudent](https://github.com/rajgupta2/StudyStudent)** - A web application enabling students to submit assignments and take virtual tests.  
-  &nbsp;&nbsp;&emsp;**Tech Stack:** Node.js, Express, EJS, Passport.js, MongoDB, Mongoose, Mongo Atlas, Git, GitHub.  
-- 💼 **[Techwork](https://github.com/rajgupta2/Techwork)** - A web application connecting developers and clients for collaboration opportunities.  
- &nbsp;&nbsp;&emsp; **Tech Stack:** ASP.NET MVC, C#, Entity Framework, MySQL, JavaScript, jQuery, Bootstrap, AJAX, HTML, CSS, MSSQL Server.  
-
-## 📌 Cloud & Deployment Projects
-- 🌍 **Static Web Application Deployment on AWS EC2 with Apache Web Server**  
-  Set up an EC2 instance on AWS and configured Apache to serve static files (HTML, CSS, JavaScript, images, etc.).  
-- 🚀 **Node.js Application Deployment using AWS Elastic Beanstalk**  
-  Deployed a Node.js application on AWS Elastic Beanstalk for scalable and managed deployment.  
-- 🌐 **Next.js Application Deployment using Netlify**  
-  Deployed a Next.js application to Netlify, utilizing CI/CD and serverless architecture.  
-- ⚖ **Implemented AWS Load Balancer for Traffic Distribution**  
-  Configured an AWS Load Balancer to distribute incoming traffic across multiple EC2 instances.  
-- 🔒 **Created a Virtual Private Cloud (VPC) in AWS**  
-  Established a secure, isolated network for web applications with custom subnets, security groups, and network ACLs.  
-
-📌 *Check out all my projects [here](https://github.com/rajgupta2?tab=repositories)!*
-
----
-
 ## 🏆 Achievements & Certifications
+- 🎖  **MGCGV University 2025 Gold Medalist**
 - 🎖  **GATE 2024 Percentile:** 92.82%
 - 🎖  **[AWS Cloud Essential Badge](https://www.credly.com/badges/3a6d14e3-b3cd-45d6-9f3b-0221a48cd506/public_url)** from AWS
 - 📜 **AWS Cloud Practitioner Essentials Certification**
 - 📜 **[Software Engineer Intern Certificate](https://www.hackerrank.com/certificates/9cb8038b7ccc)** from Hackerrank 
-- 📜 **Full Stack Developer Trainee Certificate** from Kamadgiri Software Solution Pvt. Ltd.
-
----
-
-## 💼 Professional Experience
-- **Intern at Edunet Foundation** *(10/02/2025 - 21/03/2025)*  
-  Worked on the **Zomoto clone project named Food Party**, a web application designed to streamline food ordering and restaurant management with their menu.  
-  **Key Contributions:**
-  - Developed core functionalities using **Node JS,Express, and Mongo Atlas**.
-  - Designed UI/UX with **React JS,and Bootstrap**.
-  - Integrated Frontend and Backend API.
-
----
 
 ## 📊 GitHub Stats
 ![Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajgupta2&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)
 
----
 
-## 💬 Connect with Me
-
+## 💬 Connect with Me 
 📧 **Email:** rajgupta.ckt22@gmail.com     
 💼 **LinkedIn:** [https://www.linkedin.com/in/raj-gupta-ckt/](https://www.linkedin.com/in/raj-gupta-ckt)  
 🌐 **Portfolio:** [https://raj-gupta-portfolio.netlify.app/](https://raj-gupta-portfolio.netlify.app/)
