@@ -72,9 +72,10 @@
 - 📜 **AWS Cloud Practitioner Essentials Certification**
 - 📜 **[Software Engineer Intern Certificate](https://www.hackerrank.com/certificates/9cb8038b7ccc)** from Hackerrank 
 
+<!--
 ## 📊 GitHub Stats
 ![Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajgupta2&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)
-
+-->
 
 ## 💬 Connect with Me 
 📧 **Email:** rajgupta.ckt22@gmail.com     
