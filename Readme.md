@@ -76,10 +76,4 @@
 ## 📊 GitHub Stats
 ![Raj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rajgupta2&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)
 -->
-
-## 💬 Connect with Me 
-📧 **Email:** rajgupta.ckt22@gmail.com     
-💼 **LinkedIn:** [https://www.linkedin.com/in/raj-gupta-ckt/](https://www.linkedin.com/in/raj-gupta-ckt)  
-🌐 **Portfolio:** [https://raj-gupta-portfolio.netlify.app/](https://raj-gupta-portfolio.netlify.app/)
-
 ---
