@@ -1,7 +1,4 @@
 # Hi there! 👋 I'm Raj Gupta
-<div align="center" >
-  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding">
-</div>
 
 ## 🚀 About Me
 - 🎖  Secured a Gold Medal in the MGCGV University.
