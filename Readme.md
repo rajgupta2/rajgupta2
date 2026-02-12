@@ -7,13 +7,17 @@
 - 🎓 Recently completed my gradaution- **B.Tech in Information Technology** (2025) at **Mahatma Gandhi Chitrakoot Gramodaya Vishwavidalaya (MGCGV), Chitrakoot**  
 
 ## 📌 Web Development Projects
-- 🍽 **Food Party** - Developed a web application for food ordering and restaurant management system, divided into two parts:  
-  - **Frontend:** [Food Party Frontend](https://foodparty.netlify.app) - A responsive UI built with React JS,Bootstrap, and CSS, deployed on Netlify.   
-  - **Backend API:** [Food Party Backend API](https://github.com/rajgupta2/Food-Party-Backend) - A robust API built with Node JS,Express JS, and Mongo Atlas, deployed on Render.  
+- **[SKillhub](https://skillhub-student.vercel.app)** -Developed a full-stack student platform featuring resources, file sharing, article publishing, and student engagement modules (Achievements).  
+     Designed scalable backend architecture using Node.js, Express.js, Prisma ORM, and PostgreSQL with secure role-based authentication.   
+     **Tech skills**: Next.js · Express.js · AWS Cloud Services · PostgreSQL · Tailwind CSS · Next js · Expressjs · AWS Cloud service · Postgre SQL · Tailwindcss
+
 - 🔥 **[StudyStudent](https://github.com/rajgupta2/StudyStudent)** - A web application enabling students to submit assignments and take virtual tests.  
   &nbsp;&nbsp;&emsp;**Tech Stack:** Node.js, Express, EJS, Passport.js, MongoDB, Mongoose, Mongo Atlas, Git, GitHub.  
 - 💼 **[Techwork](https://github.com/rajgupta2/Techwork)** - A web application connecting developers and clients for collaboration opportunities.  
  &nbsp;&nbsp;&emsp; **Tech Stack:** ASP.NET MVC, C#, Entity Framework, MySQL, JavaScript, jQuery, Bootstrap, AJAX, HTML, CSS, MSSQL Server.
+- 🍽 **Food Party** - Developed a web application for food ordering and restaurant management system, divided into two parts:  
+  - **Frontend:** [Food Party Frontend](https://foodparty.netlify.app) - A responsive UI built with React JS,Bootstrap, and CSS, deployed on Netlify.   
+  - **Backend API:** [Food Party Backend API](https://github.com/rajgupta2/Food-Party-Backend) - A robust API built with Node JS,Express JS, and Mongo Atlas, deployed on Render.  
 
 📌 *Check out all my projects [here](https://github.com/rajgupta2?tab=repositories)!*
 
