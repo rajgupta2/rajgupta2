@@ -16,8 +16,8 @@
 - 💼 **[Techwork](https://github.com/rajgupta2/Techwork)** - A web application connecting developers and clients for collaboration opportunities.  
  &nbsp;&nbsp;&emsp; **Tech Stack:** ASP.NET MVC, C#, Entity Framework, MySQL, JavaScript, jQuery, Bootstrap, AJAX, HTML, CSS, MSSQL Server.
 - 🍽 **Food Party** - Developed a web application for food ordering and restaurant management system, divided into two parts:  
-  - **Frontend:** [Food Party Frontend](https://foodparty.netlify.app) - A responsive UI built with React JS,Bootstrap, and CSS, deployed on Netlify.   
-  - **Backend API:** [Food Party Backend API](https://github.com/rajgupta2/Food-Party-Backend) - A robust API built with Node JS,Express JS, and Mongo Atlas, deployed on Render.  
+  - **Frontend:**- A responsive UI built with React JS,Bootstrap, and CSS, deployed on Netlify.   
+  - **Backend API:**- A robust API built with Node JS,Express JS, and Mongo Atlas, deployed on Render.  
 
 📌 *Check out all my projects [here](https://github.com/rajgupta2?tab=repositories)!*
 
