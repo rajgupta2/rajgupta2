@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Information Technology (2025) from Mahatma Gandhi Chitrakoot Gramodaya Vishwavidyalaya (MGCGV), Chitrakoot - **Gold Medalist**
-- 💻 Building on two parallel tracks: **full-stack web development (MERN)** and **AWS Cloud/DevOps**
+- 💻 Building skills on: **MERN stack development** and **AWS Cloud/DevOps**
 - ☁️ Hands-on with AWS cloud infrastructure such as EC2, S3, IAM, VPC, Load Balancer, Terraform, CloudWatch
 - 🌱 Actively leveling up: Docker, Ansible, Prometheus/Grafana, AI Integration
 - 📫 Open to full-time roles as a **MERN Developer** or **Cloud/DevOps Engineer**
