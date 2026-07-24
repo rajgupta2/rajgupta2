@@ -140,9 +140,5 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajgupta2&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajgupta2&style=for-the-badge&color=blueviolet" />
 </p>
