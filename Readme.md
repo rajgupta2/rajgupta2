@@ -9,6 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/raj-gupta-ckt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rajgupta.ckt22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://skillhub-student.vercel.app"><img src="https://img.shields.io/badge/SkillHub-Live%20Project-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/raj-gupta.62a5ed7b"><img src="https://img.shields.io/badge/Credly-Certifications-0A66C2?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
 
 ---
