@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Raj Gupta 👋</h1>
-<h3 align="center">MERN Stack Developer | AWS Cloud & DevOps Engineer</h3>
+<h3 align="center">MERN Stack Developer with hands-on AWS Cloud</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎖-Gold%20Medalist%20MGCGV%202025-blueviolet?style=for-the-badge" />
