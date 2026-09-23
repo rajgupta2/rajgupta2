@@ -4,13 +4,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/🎖-Gold%20Medalist%20MGCGV%202025-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GATE%202024-92.82%25ile-orange?style=for-the-badge" />
+  <a href="https://raj-gupta-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raj-gupta-ckt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:rajgupta.ckt22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://skillhub-student.vercel.app"><img src="https://img.shields.io/badge/SkillHub-Live%20Project-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.credly.com/users/raj-gupta.62a5ed7b"><img src="https://img.shields.io/badge/Credly-Certifications-0A66C2?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://skillhub-student.vercel.app"><img src="https://img.shields.io/badge/SkillHub-Live%20Project-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -44,76 +45,75 @@
 - **Stack:** Terraform · AWS (EC2, S3, CloudWatch, SNS, IAM) · GitHub Actions
 
 
-**[Techwork](https://github.com/rajgupta2/Techwork)** - **A Developer-client collaboration platform**    
-- Techwork is a web platform connecting developers and clients for seamless collaboration.   
-- The platform provides dedicated dashboards for both developers and clients, ensuring an efficient workflow and project management experience.
-- Integrated **Google Recaptcha API** to strengthen application security.    
-- **Stack:** ASP.NET MVC · C# · Entity Framework · MySQL · jQuery · Bootstrap
-
-
 📌 *See all my projects [here](https://github.com/rajgupta2?tab=repositories)*
 
 ---
 
 ### 🛠 Tech Stack
 
-**AWS Cloud**
+**Frontend**
 <br>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-1488C6?style=for-the-badge&logo=amazonaws&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Route 53](https://img.shields.io/badge/Route_53-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
-![Lightsail](https://img.shields.io/badge/Lightsail-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![React](https://img.shields.io/badge/React.js-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**DevOps & IaC**
-<br>
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Backend & APIs**
+**Backend**
 <br>
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/RESTful_API-009688?style=for-the-badge&logo=json&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-**Databases**
+**Database**
 <br>
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Frontend**
+**AWS Cloud**
 <br>
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-ED7100?style=for-the-badge&logo=amazonec2&logoColor=white)
+![EBS](https://img.shields.io/badge/EBS-7AA116?style=for-the-badge&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-7AA116?style=for-the-badge&logo=amazons3&logoColor=white)
+![VPC](https://img.shields.io/badge/VPC-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-C925D1?style=for-the-badge&logo=amazonrds&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-C925D1?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-ED7100?style=for-the-badge&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-E7157B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Elastic Load Balancer](https://img.shields.io/badge/Elastic_Load_Balancer-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-ED7100?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-ED7100?style=for-the-badge&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-E7157B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-E7157B?style=for-the-badge&logo=amazonsns&logoColor=white)
 
-**Programming & AI**
+**DevOps**
 <br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Programming**
+<br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-F7B93E?style=for-the-badge&logo=thealgorithms&logoColor=black)
+![OOPs](https://img.shields.io/badge/OOPs-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ---
 
